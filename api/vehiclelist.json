@@ -1,0 +1,43 @@
+{
+  "vehicles":
+  [{
+    "Make": "BMW",
+    "Model": "320",
+    "Version": "d M-Line",
+    "Price": 22000,
+    "Mileage": 120000,
+    "FirstRegistration": "01/2016",
+    "PowerKW": "68",
+    "FuelType": "Diesel",
+    "Address": "81673 München",
+    "Equipments": [ "ABS", "ESP", "Airbag", "LED", "Radio", "Bluetooth", "Head Up Display"],
+    "Images": ["https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle1-1.jpg", "http://https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle1-2.jpg"],
+    "DetailPageURL": "https://github.com/AutoScout24/interview-tests/ios/api/vehicledetail1.json"
+  },{
+    "Make": "Audi",
+    "Model": "A4",
+    "Version": "S-Line",
+    "Price": 25000,
+    "Mileage": 100000,
+    "FirstRegistration": "05/2016",
+    "PowerKW": "77",
+    "FuelType": "Benzin",
+    "Address": "10115 Berlin",
+    "Equipments": [ "ABS", "ESP", "Airbag", "LED", "Radio", "Bluetooth", "Adaptive Cruise Control"],
+    "Images": ["https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle2-1.jpg", "http://https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle2-2.jpg"],
+    "DetailPageURL": "https://github.com/AutoScout24/interview-tests/ios/api/vehicledetail2.json"
+  },{
+    "Make": "Mercedes-Benz",
+    "Model": "C 200",
+    "Version": "t Modell",
+    "Price": 30000,
+    "Mileage": 77000,
+    "FirstRegistration": "06/2016",
+    "PowerKW": "83",
+    "FuelType": "Diesel",
+    "Address": "50667 Köln",
+    "Equipments": [ "ABS", "ESP", "Airbag", "LED", "Radio", "Bluetooth"],
+    "Images": ["https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle3-1.jpg", "http://https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle3-2.jpg"],
+    "DetailPageURL": "https://github.com/AutoScout24/interview-tests/ios/api/vehicledetail3.json"
+  }]
+}

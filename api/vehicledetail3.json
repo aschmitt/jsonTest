@@ -1,0 +1,17 @@
+{
+  vehicle:
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "C 200",
+    "Version": "t Modell",
+    "Price": 30000,
+    "Mileage": 77000,
+    "FirstRegistration": "06/2016",
+    "PowerKW": "83",
+    "FuelType": "Diesel",
+    "Address": "50667 Köln",
+    "Text": "This car is for sale!!!",
+    "Equipments": [ "ABS", "ESP", "Airbag", "LED", "Radio", "Bluetooth"],
+    "Images": ["https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle3-1.jpg", "http://https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle3-2.jpg"]
+  }
+}

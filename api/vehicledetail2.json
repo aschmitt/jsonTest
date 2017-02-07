@@ -1,0 +1,16 @@
+{
+  vehicle:
+  {
+    "Make": "Audi",
+    "Model": "A4",
+    "Version": "S-Line",
+    "Price": 25000,
+    "Mileage": 100000,
+    "FirstRegistration": "05/2016",
+    "PowerKW": "77",
+    "FuelType": "Benzin",
+    "Address": "10115 Berlin",
+    "Equipments": [ "ABS", "ESP", "Airbag", "LED", "Radio", "Bluetooth", "Adaptive Cruise Control"],
+    "Images": ["https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle2-1.jpg", "http://https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle2-2.jpg"]
+  }
+}
