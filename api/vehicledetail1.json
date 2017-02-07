@@ -12,6 +12,6 @@
     "Address": "81673 München",
     "Text": "This car is for sale!!!",
     "Equipments": [ "ABS", "ESP", "Airbag", "LED", "Radio", "Bluetooth", "Head Up Display"],
-    "Images": ["https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle1-1.jpg", "http://https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle1-2.jpg"],
+    "Images": ["https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle1-1.jpg", "http://https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle1-2.jpg"],
   }
 }

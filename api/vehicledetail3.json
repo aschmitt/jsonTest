@@ -12,6 +12,6 @@
     "Address": "50667 Köln",
     "Text": "This car is for sale!!!",
     "Equipments": [ "ABS", "ESP", "Airbag", "LED", "Radio", "Bluetooth"],
-    "Images": ["https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle3-1.jpg", "http://https://github.com/AutoScout24/interview-tests/ios/assets/Vehicle3-2.jpg"]
+    "Images": ["https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle3-1.jpg", "http://https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle3-2.jpg"]
   }
 }
