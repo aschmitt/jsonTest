@@ -11,7 +11,7 @@
     "FuelType": "Diesel",
     "Address": "81673 München",
     "Equipments": [ "ABS", "ESP", "Airbag", "LED", "Radio", "Bluetooth", "Head Up Display"],
-    "Images": ["https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle1-1.jpg", "http://https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle1-2.jpg"],
+    "Images": ["https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle1-1.jpg", "https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle1-2.jpg"],
     "DetailPageURL": "https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/api/vehicledetail1.json"
   },{
     "Make": "Audi",
@@ -24,7 +24,7 @@
     "FuelType": "Benzin",
     "Address": "10115 Berlin",
     "Equipments": [ "ABS", "ESP", "Airbag", "LED", "Radio", "Bluetooth", "Adaptive Cruise Control"],
-    "Images": ["https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle2-1.jpg", "http://https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle2-2.jpg"],
+    "Images": ["https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle2-1.jpg", "https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle2-2.jpg"],
     "DetailPageURL": "https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/api/vehicledetail2.json"
   },{
     "Make": "Mercedes-Benz",
@@ -37,7 +37,7 @@
     "FuelType": "Diesel",
     "Address": "50667 Köln",
     "Equipments": [ "ABS", "ESP", "Airbag", "LED", "Radio", "Bluetooth"],
-    "Images": ["https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle3-1.jpg", "http://https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle3-2.jpg"],
+    "Images": ["https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle3-1.jpg", "https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/assets/Vehicle3-2.jpg"],
     "DetailPageURL": "https://raw.githubusercontent.com/AutoScout24/interview-tests/ios/api/vehicledetail3.json"
   }]
 }
